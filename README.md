@@ -139,9 +139,3 @@ The fastest hosted demo path is Vercel.
 - `src/lib/seed-data.ts`: realistic seed dataset.
 - `scripts/seed.ts`: data-loading script.
 - `cypher/main-queries.cypher`: main queries for reviewers.
-
-## Submission Email
-
-Subject: `CognoDB Assignment 2 - Dimas Mulya`
-
-Send the GitHub repository URL, hosted demo URL, and screen recording URL to `hr@wexa.ai`.
